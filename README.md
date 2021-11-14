@@ -25,16 +25,21 @@
 ### Web/Mobile Projects
 - K-pop Artists Info: https://people.rit.edu/mr7721/ISTE252/P2-Web_App/index.html 
 (Please view on a mobile phone or in a mobile view in the web browser for best experience)
-- 
+- (working on...)
 ### Data Visualization
 - California Fires: https://observablehq.com/d/de177e5b92c6a7fe
 - U.S. Minimum Wages & Cost of Living: https://observablehq.com/d/c4f4326e2c5af4cc 
 
 
 ## 🎨 Design Projects
-### Photos
 ### Logo Design
+- (working on...)
 ### Business Card Design
+- (working on...)
 
 ## 🎉 For Fun!
-- Dear Data: 
+- Dear Data: https://mililani-rosare-projects.blogspot.com/2021/11/dear-data.html
+
+### 📄 Resume
+- Resume Link: https://people.rit.edu/mr7721/Mililani_Rosare_Resume.pdf
+- Click to Download: [Mililani_Rosare_Resume.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/7533481/Mililani_Rosare_Resume.pdf)

@@ -1,6 +1,6 @@
 # Mililani Rosare
 
-## About Me
+## 🌴 About Me
 - Major/Year: New Media Interactive Development '22
 - Minors: Communication, Digital Literatures and Comparative Media, Mobile Development
 - School: Rochester Institute of Technology
@@ -23,6 +23,9 @@
 - In Times of Covid: https://mililani-physicalcomp.blogspot.com/2021/05/p3-in-times-of-covid.html
 
 ### Web/Mobile Projects
+- K-pop Artists Info: https://people.rit.edu/mr7721/ISTE252/P2-Web_App/index.html 
+(Please view on a mobile phone or in a mobile view in the web browser for best experience)
+- 
 ### Data Visualization
 - California Fires: https://observablehq.com/d/de177e5b92c6a7fe
 - U.S. Minimum Wages & Cost of Living: https://observablehq.com/d/c4f4326e2c5af4cc 

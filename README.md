@@ -40,6 +40,6 @@
 ## 🎉 For Fun!
 - Dear Data: https://mililani-rosare-projects.blogspot.com/2021/11/dear-data.html
 
-### 📄 Resume
+## 📄 Resume
 - Resume Link: https://people.rit.edu/mr7721/Mililani_Rosare_Resume.pdf
 - Click to Download: [Mililani_Rosare_Resume.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/7533481/Mililani_Rosare_Resume.pdf)

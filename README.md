@@ -33,12 +33,16 @@
 
 ## 🎨 Design Projects
 ### Logo Design
-- (working on...)
+- Blog: https://mililani-rosare-projects.blogspot.com/2021/11/logo-design.html
+- Click to Download (PDF): [Mililani-Rosare-Logo.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/7536455/Mililani-Rosare-Logo.pdf)
 ### Business Card Design
-- (working on...)
+- Blog:
+- Click to Download (PDF): [Rosare-BusinessCard.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/7536461/Rosare-BusinessCard.pdf)
+
 
 ## 🎉 For Fun!
 - Dear Data: https://mililani-rosare-projects.blogspot.com/2021/11/dear-data.html
+
 
 ## 📄 Resume
 - Resume Link: https://people.rit.edu/mr7721/Mililani_Rosare_Resume.pdf

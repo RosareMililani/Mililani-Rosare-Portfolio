@@ -23,8 +23,10 @@
 - In Times of Covid: https://mililani-physicalcomp.blogspot.com/2021/05/p3-in-times-of-covid.html
 
 ### Web/Mobile Projects
-- K-pop Artists Info: https://people.rit.edu/mr7721/ISTE252/P2-Web_App/index.html 
+- K-pop Artists Info
+  - Project: https://people.rit.edu/mr7721/ISTE252/P2-Web_App/index.html 
 (Please view on a mobile phone or in a mobile view in the web browser for best experience)
+  - Blog: https://mililani-rosare-projects.blogspot.com/2021/11/k-pop-info-mobile-development.html
 - (working on...)
 ### Data Visualization
 - California Fires: https://observablehq.com/d/de177e5b92c6a7fe

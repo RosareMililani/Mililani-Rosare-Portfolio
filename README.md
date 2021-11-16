@@ -25,29 +25,38 @@
 
 ## 💻 Coding Projects
 ### Arduino
-- Mini Light Show
-  - Blog: https://mililani-physicalcomp.blogspot.com/2021/03/project-1-blink-mini-light-show.html
-  - Code: https://create.arduino.cc/editor/mililanir/6c78ba1f-2a08-40d0-a9e5-d850f8226894/preview
-- Listen
-  - Blog: https://mililani-physicalcomp.blogspot.com/2021/03/project-2-listen.html
-  - Code: https://create.arduino.cc/editor/mililanir/042203f7-3796-4c55-8813-f6ed00a396d1/preview
-- In Times of Covid
+- In Times of Covid | May 2021
   - Blog: https://mililani-physicalcomp.blogspot.com/2021/05/p3-in-times-of-covid.html
   - Code: https://create.arduino.cc/editor/mililanir/e1a13251-c4fb-4d6a-b35c-c97eda7ecef2/preview
 
+- Listen | March 2021
+  - Blog: https://mililani-physicalcomp.blogspot.com/2021/03/project-2-listen.html
+  - Code: https://create.arduino.cc/editor/mililanir/042203f7-3796-4c55-8813-f6ed00a396d1/preview
+
+- Mini Light Show | March 2021
+  - Blog: https://mililani-physicalcomp.blogspot.com/2021/03/project-1-blink-mini-light-show.html
+  - Code: https://create.arduino.cc/editor/mililanir/6c78ba1f-2a08-40d0-a9e5-d850f8226894/preview
+
 ### Web/Mobile Projects
-- K-pop Artists Info
+- Ranked Choice Voting | October 2021
+  - Link to Project: https://rcv-6.herokuapp.com/
+  - GitHub Repo: https://github.com/dg1229/RCV-Team-6
+
+- K-pop Artists Info | October 2021
   - Link to Project: https://people.rit.edu/mr7721/ISTE252/P2-Web_App/index.html 
 (Please view on a mobile phone or in a mobile view in the web browser for best experience)
   - Blog: https://mililani-rosare-projects.blogspot.com/2021/11/k-pop-info-mobile-development.html
-- Amiibo Project 
-  - Link to Project: https://people.rit.edu/mr7721/235/project2/amiibo-xhr.html
-  - GitHub Repo: https://github.com/RosareMililani/Amiibo-Finder
-- Web Audio Visualizer
+
+- Community Playlist Maker | November 2020
+  - GitHub Repo: https://github.com/RosareMililani/430-project2-playlist
+
+- Web Audio Visualizer | March 2020
   - Link to Project: https://people.rit.edu/mr7721/330/project2/
   - GitHub Repo: https://github.com/RosareMililani/Web-Audio-Visualizer
-- Community Playlist Maker
-  - GitHub Repo: https://github.com/RosareMililani/430-project2-playlist
+
+- Amiibo Project | November 2019
+  - Link to Project: https://people.rit.edu/mr7721/235/project2/amiibo-xhr.html
+  - GitHub Repo: https://github.com/RosareMililani/Amiibo-Finder
 
 ### Data Visualization
 - California Fires: https://observablehq.com/d/de177e5b92c6a7fe

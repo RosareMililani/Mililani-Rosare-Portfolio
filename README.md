@@ -27,7 +27,9 @@
   - Project: https://people.rit.edu/mr7721/ISTE252/P2-Web_App/index.html 
 (Please view on a mobile phone or in a mobile view in the web browser for best experience)
   - Blog: https://mililani-rosare-projects.blogspot.com/2021/11/k-pop-info-mobile-development.html
-- (working on...)
+- Amiibo Project: https://people.rit.edu/mr7721/235/project2/amiibo-xhr.html
+- Web Audio Visualizer: https://people.rit.edu/mr7721/330/project2/
+
 ### Data Visualization
 - California Fires: https://observablehq.com/d/de177e5b92c6a7fe
 - U.S. Minimum Wages & Cost of Living: https://observablehq.com/d/c4f4326e2c5af4cc 

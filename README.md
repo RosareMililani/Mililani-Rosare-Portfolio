@@ -1,4 +1,4 @@
-# Mililani Rosare
+# 🌺 Mililani Rosare 🌺
 
 ## 🌴 About Me
 - Major/Year: New Media Interactive Development '22

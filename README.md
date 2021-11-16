@@ -15,6 +15,7 @@
 - I like sketching and drawing characters in my free time. 
 - I enjoy doing research and creating interactive experiences!
 
+<br /> 
 
 ## 💻 Coding Projects
 ### Arduino
@@ -34,6 +35,7 @@
 - California Fires: https://observablehq.com/d/de177e5b92c6a7fe
 - U.S. Minimum Wages & Cost of Living: https://observablehq.com/d/c4f4326e2c5af4cc 
 
+<br /> 
 
 ## 🎨 Design Projects
 ### Logo Design
@@ -43,10 +45,12 @@
 - Blog: https://mililani-rosare-projects.blogspot.com/2021/11/business-card.html
 - Click to Download (PDF): [Rosare-BusinessCard.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/7536461/Rosare-BusinessCard.pdf)
 
+<br /> 
 
 ## 🎉 For Fun!
 - Dear Data: https://mililani-rosare-projects.blogspot.com/2021/11/dear-data.html
 
+<br /> 
 
 ## 📄 Resume
 - Resume Link: https://people.rit.edu/mr7721/Mililani_Rosare_Resume.pdf

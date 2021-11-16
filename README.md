@@ -1,5 +1,10 @@
 # 🌺 Mililani Rosare 🌺
 
+<br />
+✨ I am a Front-End Developer, casual artist, and boba lover! 
+
+<br />
+
 ## 🌴 About Me
 - Major/Year: New Media Interactive Development '22
 - Minors: Communication, Digital Literatures and Comparative Media, Mobile Development
@@ -10,8 +15,9 @@
 - LinkedIn: https://www.linkedin.com/in/mililanirosare/
 
 ### Other 
+- From 📍 Campbell, California (Bay Area)
 - I am named after a town in O'ahu.
-- I have been swimming since I was 5, and competitively since 7 years old.
+- I have been swimming since I was 5, and competitively since 7.
 - I like sketching and drawing characters in my free time. 
 - I enjoy doing research and creating interactive experiences!
 
@@ -19,9 +25,15 @@
 
 ## 💻 Coding Projects
 ### Arduino
-- Mini Light Show: https://mililani-physicalcomp.blogspot.com/2021/03/project-1-blink-mini-light-show.html
-- Listen: https://mililani-physicalcomp.blogspot.com/2021/03/project-2-listen.html
-- In Times of Covid: https://mililani-physicalcomp.blogspot.com/2021/05/p3-in-times-of-covid.html
+- Mini Light Show
+  - Blog: https://mililani-physicalcomp.blogspot.com/2021/03/project-1-blink-mini-light-show.html
+  - Code: https://create.arduino.cc/editor/mililanir/6c78ba1f-2a08-40d0-a9e5-d850f8226894/preview
+- Listen
+  - Blog: https://mililani-physicalcomp.blogspot.com/2021/03/project-2-listen.html
+  - Code: https://create.arduino.cc/editor/mililanir/042203f7-3796-4c55-8813-f6ed00a396d1/preview
+- In Times of Covid
+  - Blog: https://mililani-physicalcomp.blogspot.com/2021/05/p3-in-times-of-covid.html
+  - Code: https://create.arduino.cc/editor/mililanir/e1a13251-c4fb-4d6a-b35c-c97eda7ecef2/preview
 
 ### Web/Mobile Projects
 - K-pop Artists Info

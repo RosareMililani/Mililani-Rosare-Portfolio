@@ -37,11 +37,17 @@
 
 ### Web/Mobile Projects
 - K-pop Artists Info
-  - Project: https://people.rit.edu/mr7721/ISTE252/P2-Web_App/index.html 
+  - Link to Project: https://people.rit.edu/mr7721/ISTE252/P2-Web_App/index.html 
 (Please view on a mobile phone or in a mobile view in the web browser for best experience)
   - Blog: https://mililani-rosare-projects.blogspot.com/2021/11/k-pop-info-mobile-development.html
-- Amiibo Project: https://people.rit.edu/mr7721/235/project2/amiibo-xhr.html
-- Web Audio Visualizer: https://people.rit.edu/mr7721/330/project2/
+- Amiibo Project 
+  - Link to Project: https://people.rit.edu/mr7721/235/project2/amiibo-xhr.html
+  - GitHub Repo: https://github.com/RosareMililani/Amiibo-Finder
+- Web Audio Visualizer
+  - Link to Project: https://people.rit.edu/mr7721/330/project2/
+  - GitHub Repo: https://github.com/RosareMililani/Web-Audio-Visualizer
+- Community Playlist Maker
+  - GitHub Repo: https://github.com/RosareMililani/430-project2-playlist
 
 ### Data Visualization
 - California Fires: https://observablehq.com/d/de177e5b92c6a7fe

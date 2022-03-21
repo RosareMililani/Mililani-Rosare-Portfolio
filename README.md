@@ -1,7 +1,7 @@
 # 🌺 Mililani Rosare 🌺
 
 <br />
-✨ I am a Front-End Developer, casual artist, and boba lover! 
+✨ I am a UX Researcher & Designer, casual artist, and boba lover! 
 
 <br />
 

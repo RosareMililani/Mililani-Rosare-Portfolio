@@ -10,11 +10,11 @@
 - Minors: Communication, Digital Literatures and Comparative Media, Mobile Development
 - School: Rochester Institute of Technology
 
-### Contact Information
+### 👤 Contact Information
 - Email: mr7721@rit.edu or mililanirosare@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mililanirosare/
 
-### Other 
+### 🐉 Other 
 - From 📍 Campbell, California (Bay Area)
 - I am named after a town in O'ahu.
 - I have been swimming since I was 5, and competitively since 7.
@@ -91,6 +91,3 @@ _More information coming soon_
 ## 📄 Resume
 - Resume Link: https://people.rit.edu/mr7721/Mililani_Rosare_Resume.pdf
 - Click to Download: [Mililani_Rosare_Resume.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/8319549/Mililani_Rosare_Resume.pdf)
-
-## :bust_in_silhouette: Other
-- LinkedIn: https://www.linkedin.com/in/mililanirosare/

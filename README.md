@@ -19,7 +19,8 @@
 - I am named after a town in O'ahu.
 - I have been swimming since I was 5, and competitively since 7.
 - I like sketching and drawing characters in my free time. 
-- I enjoy doing research and creating interactive experiences!
+- My favorite Disney characters are Chip & Dale.
+- I like collecting stationary items. 
 
 <br /> 
 
@@ -38,6 +39,10 @@
   - Code: https://create.arduino.cc/editor/mililanir/6c78ba1f-2a08-40d0-a9e5-d850f8226894/preview
 
 ### Web/Mobile Projects
+- Hybrid App: Animal Crossing | November - December 2021
+  - GitHub Repo: _Coming Soon_
+  - Blog: _Coming Soon_
+  
 - Ranked Choice Voting | October 2021
   - Link to Project: https://rcv-6.herokuapp.com/
   - GitHub Repo: https://github.com/dg1229/RCV-Team-6
@@ -58,6 +63,9 @@
   - Link to Project: https://people.rit.edu/mr7721/235/project2/amiibo-xhr.html
   - GitHub Repo: https://github.com/RosareMililani/Amiibo-Finder
 
+### Capstone
+_More information coming soon_
+
 ### Data Visualization
 - California Fires: https://observablehq.com/d/de177e5b92c6a7fe
 - U.S. Minimum Wages & Cost of Living: https://observablehq.com/d/c4f4326e2c5af4cc 
@@ -76,6 +84,7 @@
 
 ## 🎉 For Fun!
 - Dear Data: https://mililani-rosare-projects.blogspot.com/2021/11/dear-data.html
+- Hitomezashi & Randomness: https://mililani-rosare-projects.blogspot.com/2022/03/aesthetics-computation-hitomezashi.html
 
 <br /> 
 

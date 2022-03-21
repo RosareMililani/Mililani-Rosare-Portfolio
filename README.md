@@ -90,4 +90,7 @@ _More information coming soon_
 
 ## 📄 Resume
 - Resume Link: https://people.rit.edu/mr7721/Mililani_Rosare_Resume.pdf
-- Click to Download: [Mililani_Rosare_Resume.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/7533481/Mililani_Rosare_Resume.pdf)
+- Click to Download: [Mililani_Rosare_Resume.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/8319549/Mililani_Rosare_Resume.pdf)
+
+## :bust_in_silhouette: Other
+- LinkedIn: https://www.linkedin.com/in/mililanirosare/

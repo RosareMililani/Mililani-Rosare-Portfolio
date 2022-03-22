@@ -1,7 +1,7 @@
 # 🌺 Mililani Rosare 🌺
 
 <br />
-✨ I am a UX Researcher & Designer, casual artist, and boba lover! 
+✨ I am a UX Researcher & Designer, casual artist, and boba lover! ✨
 
 <br />
 
@@ -25,7 +25,7 @@
 <br /> 
 
 ## 💻 Coding Projects
-### Arduino
+### 🚨 Arduino
 - In Times of Covid | May 2021
   - Blog: https://mililani-physicalcomp.blogspot.com/2021/05/p3-in-times-of-covid.html
   - Code: https://create.arduino.cc/editor/mililanir/e1a13251-c4fb-4d6a-b35c-c97eda7ecef2/preview
@@ -38,9 +38,10 @@
   - Blog: https://mililani-physicalcomp.blogspot.com/2021/03/project-1-blink-mini-light-show.html
   - Code: https://create.arduino.cc/editor/mililanir/6c78ba1f-2a08-40d0-a9e5-d850f8226894/preview
 
-### Web/Mobile Projects
+### 📱 Web/Mobile Projects
 - Hybrid App: Animal Crossing | November - December 2021
   - GitHub Repo: _Coming Soon_
+  - Figma Mockup: https://www.figma.com/file/RI05vBuPr6M6H68ruDPnyO/Project-3%3A-Animal-Crossing?node-id=0%3A1
   - Blog: _Coming Soon_
   
 - Ranked Choice Voting | October 2021
@@ -63,20 +64,23 @@
   - Link to Project: https://people.rit.edu/mr7721/235/project2/amiibo-xhr.html
   - GitHub Repo: https://github.com/RosareMililani/Amiibo-Finder
 
-### Capstone
-_More information coming soon_
+### 🖌️ Capstone (Collaboration between NMID & NMD students) - ArtTag 
+About: ArtTag, is a drawing experience that allows you to post your drawings on walls in AR and see them alongside the drawings of other users. By allowing our users to contribute to their community through drawing, we're hoping to incentivise them to explore and discover the artistic expressions of the people around them. 
+- Instagram: https://www.instagram.com/arttag_rit/
+- Facebook: https://www.facebook.com/ArtTag-RIT-101273502460458
+<br/>_More information coming soon_
 
-### Data Visualization
+### 📊 Data Visualization
 - California Fires: https://observablehq.com/d/de177e5b92c6a7fe
 - U.S. Minimum Wages & Cost of Living: https://observablehq.com/d/c4f4326e2c5af4cc 
 
 <br /> 
 
 ## 🎨 Design Projects
-### Logo Design
+### 🌼 Logo Design
 - Blog: https://mililani-rosare-projects.blogspot.com/2021/11/logo-design.html
 - Click to Download (PDF): [Mililani-Rosare-Logo.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/7536455/Mililani-Rosare-Logo.pdf)
-### Business Card Design
+### 👔 Business Card Design
 - Blog: https://mililani-rosare-projects.blogspot.com/2021/11/business-card.html
 - Click to Download (PDF): [Rosare-BusinessCard.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/7536461/Rosare-BusinessCard.pdf)
 

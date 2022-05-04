@@ -65,9 +65,10 @@
   - GitHub Repo: https://github.com/RosareMililani/Amiibo-Finder
 
 ### 🖌️ Capstone (Collaboration between NMID & NMD students) - ArtTag 
-About: ArtTag, is a drawing experience that allows you to post your drawings on walls in AR and see them alongside the drawings of other users. By allowing our users to contribute to their community through drawing, we're hoping to incentivise them to explore and discover the artistic expressions of the people around them. 
+About: ArtTag, is a drawing experience that allows you to post your drawings on walls in AR and see them alongside the drawings of other users. By allowing our users to contribute to their community through drawing, we're hoping they explore and discover the artistic expressions of the people around them.
 - Instagram: https://www.instagram.com/arttag_rit/
 - Facebook: https://www.facebook.com/ArtTag-RIT-101273502460458
+- Website: https://designed.cad.rit.edu/nmcapstone/project/arttag
 <br/>_More information coming soon_
 
 ### 📊 Data Visualization

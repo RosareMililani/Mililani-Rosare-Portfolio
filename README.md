@@ -6,7 +6,8 @@
 <br />
 
 ## 🌴 About Me
-- Major/Year: New Media Interactive Development '22
+- Bachelors: New Media Interactive Development '22
+- Masters: Human-Computer Interaction '24
 - Minors: Communication, Digital Literatures and Comparative Media, Mobile Development
 - School: Rochester Institute of Technology
 
@@ -21,6 +22,7 @@
 - I like sketching and drawing characters in my free time. 
 - My favorite Disney characters are Chip & Dale.
 - I like collecting stationary items. 
+- I enjoy playing nonogram games. 
 
 <br /> 
 

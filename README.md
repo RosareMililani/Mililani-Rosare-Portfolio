@@ -1,13 +1,13 @@
 # 🌺 Mililani Rosare 🌺
 
 <br />
-✨ I am a UX Researcher & Designer, casual artist, and boba lover! ✨
+✨ I am a UX Researcher & Usability Tester, casual artist, and boba lover! ✨
 
 <br />
 
 ## 🌴 About Me
-- Bachelors: New Media Interactive Development '22
 - Masters: Human-Computer Interaction '24
+- Bachelors: New Media Interactive Development '22 
 - Minors: Communication, Digital Literatures and Comparative Media, Mobile Development
 - School: Rochester Institute of Technology
 

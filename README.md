@@ -97,4 +97,4 @@ About: ArtTag, is a drawing experience that allows you to post your drawings on 
 
 ## 📄 Resume
 - Resume Link: https://people.rit.edu/mr7721/Mililani_Rosare_Resume.pdf
-- Click to Download: [Mililani_Rosare_Resume.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/8319549/Mililani_Rosare_Resume.pdf)
+- Click to Download: [Mililani_Rosare_Resume.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/10421022/Mililani_Rosare_Resume.pdf)

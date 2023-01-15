@@ -21,12 +21,27 @@
 - I have been swimming since I was 5, and competitively since 7.
 - I like sketching and drawing characters in my free time. 
 - My favorite Disney characters are Chip & Dale.
-- I like collecting stationary items. 
 - I enjoy playing nonogram games. 
+- I modeled for [RIT's Artifical Intelligence](https://www.rit.edu/study/artificial-intelligence-ms) promotional material. 
 
 <br /> 
+## 📑 Research 
+
+
+## 📋 Prototype / User Testing
+- Game Boy Prototype | December 2022
+  - Report: [GameBoyPrototyping-LeePatilRosare.docx](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/10421101/GameBoyPrototyping-LeePatilRosare.docx)
+- WiX Field Observation & Data Collection | October 2022
+  - Report: [WiXFieldObservation_RosareMililani.docx](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/10421129/WiXFieldObservation_RosareMililani.docx)
+
 
 ## 💻 Coding Projects
+### 🖌️ ArtTag - Capstone Project (Collaboration between NMID & NMD students)
+About: ArtTag, is a drawing experience that allows you to post your drawings on walls in AR and see them alongside the drawings of other users. By allowing our users to contribute to their community through drawing, we're hoping they explore and discover the artistic expressions of the people around them.
+- Instagram: https://www.instagram.com/arttag_rit/
+- Facebook: https://www.facebook.com/ArtTag-RIT-101273502460458
+- Website: https://designed.cad.rit.edu/nmcapstone/project/arttag
+
 ### 🚨 Arduino
 - In Times of Covid | May 2021
   - Blog: https://mililani-physicalcomp.blogspot.com/2021/05/p3-in-times-of-covid.html
@@ -44,7 +59,6 @@
 - Hybrid App: Animal Crossing | November - December 2021
   - GitHub Repo: _Coming Soon_
   - Figma Mockup: https://www.figma.com/file/RI05vBuPr6M6H68ruDPnyO/Project-3%3A-Animal-Crossing?node-id=0%3A1
-  - Blog: _Coming Soon_
   
 - Ranked Choice Voting | October 2021
   - Link to Project: https://rcv-6.herokuapp.com/
@@ -55,9 +69,6 @@
 (Please view on a mobile phone or in a mobile view in the web browser for best experience)
   - Blog: https://mililani-rosare-projects.blogspot.com/2021/11/k-pop-info-mobile-development.html
 
-- Community Playlist Maker | November 2020
-  - GitHub Repo: https://github.com/RosareMililani/430-project2-playlist
-
 - Web Audio Visualizer | March 2020
   - Link to Project: https://people.rit.edu/mr7721/330/project2/
   - GitHub Repo: https://github.com/RosareMililani/Web-Audio-Visualizer
@@ -65,13 +76,6 @@
 - Amiibo Project | November 2019
   - Link to Project: https://people.rit.edu/mr7721/235/project2/amiibo-xhr.html
   - GitHub Repo: https://github.com/RosareMililani/Amiibo-Finder
-
-### 🖌️ Capstone (Collaboration between NMID & NMD students) - ArtTag 
-About: ArtTag, is a drawing experience that allows you to post your drawings on walls in AR and see them alongside the drawings of other users. By allowing our users to contribute to their community through drawing, we're hoping they explore and discover the artistic expressions of the people around them.
-- Instagram: https://www.instagram.com/arttag_rit/
-- Facebook: https://www.facebook.com/ArtTag-RIT-101273502460458
-- Website: https://designed.cad.rit.edu/nmcapstone/project/arttag
-<br/>_More information coming soon_
 
 ### 📊 Data Visualization
 - California Fires: https://observablehq.com/d/de177e5b92c6a7fe

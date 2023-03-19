@@ -25,7 +25,14 @@
 - I modeled for [RIT's Artifical Intelligence](https://www.rit.edu/study/artificial-intelligence-ms) promotional material. 
 
 <br /> 
-## 📑 Research 
+
+## 📑 Research (School)
+- Information Retention Through Text & Audio | November 2022
+  - Report: [InformationRetention-KhanLeeRosareWhite.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11012315/InformationRetention-KhanLeeRosareWhite.pdf)
+- Survey on RIT Housing | October 2022
+  - Report: [RITHousingSurvey-KhanLeeRosareWhite.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11012303/RITHousingSurvey-KhanLeeRosareWhite.pdf)
+- RIT On-Campus Navigation | September 2022
+  - Report: [RITNavigation-KhanLeeRosareWhite.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11012292/RITNavigation-KhanLeeRosareWhite.pdf)
 
 
 ## 📋 Prototype / User Testing

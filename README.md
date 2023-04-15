@@ -28,6 +28,7 @@
 
 ## 📑 Research & Literature Review(School)
 - The Use of Video Games in Academia (Literature Review) | February 
+  - Paper: [VideoGamesinAcademia-Rosare.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11238175/VideoGamesinAcademia-Rosare.pdf)
 - Information Retention Through Text & Audio | November 2022
   - Report: [InformationRetention-KhanLeeRosareWhite.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11012315/InformationRetention-KhanLeeRosareWhite.pdf)
 - Survey on RIT Housing | October 2022

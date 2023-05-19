@@ -26,8 +26,14 @@
 
 <br /> 
 
-## 📑 Research & Literature Review(School)
-- The Use of Video Games in Academia (Literature Review) | February 
+## 📑 Research & Literature Review
+- Swimming Reaction Time for Analysis | February 
+  - Paper: [Swimming_Reaction_Time_for_Analysis_.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11514627/Swimming_Reaction_Time_for_Analysis_.pdf)
+  - Presentation: [SwimmingReactionTimePresentation-RosareThomas.pptx](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11514633/SwimmingReactionTimePresentation-RosareThomas.pptx)
+  - GitHub: https://github.com/emmathomas36/Reaction-Time
+- Working Towards Making Games Accessible | May 2023 
+  - Paper: [WorkingTowardsMakingGamesAccessible-Rosare.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11514603/WorkingTowardsMakingGamesAccessible-Rosare.pdf)
+- The Use of Video Games in Academia (Literature Review) | February 2023
   - Paper: [VideoGamesinAcademia-Rosare.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11238175/VideoGamesinAcademia-Rosare.pdf)
 - Information Retention Through Text & Audio | November 2022
   - Report: [InformationRetention-KhanLeeRosareWhite.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11012315/InformationRetention-KhanLeeRosareWhite.pdf)
@@ -66,7 +72,7 @@ About: ArtTag, is a drawing experience that allows you to post your drawings on 
 
 ### 📱 Web/Mobile Projects
 - Hybrid App: Animal Crossing | November - December 2021
-  - GitHub Repo: _Coming Soon_
+  - GitHub Repo: https://github.com/RosareMililani/HybridApp-AnimalCrossing
   - Figma Mockup: https://www.figma.com/file/RI05vBuPr6M6H68ruDPnyO/Project-3%3A-Animal-Crossing?node-id=0%3A1
   
 - Ranked Choice Voting | October 2021
@@ -110,4 +116,4 @@ About: ArtTag, is a drawing experience that allows you to post your drawings on 
 
 ## 📄 Resume
 - Resume Link: https://people.rit.edu/mr7721/Mililani_Rosare_Resume.pdf
-- Click to Download: [Mililani_Rosare_Resume.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/10421022/Mililani_Rosare_Resume.pdf)
+- Click to Download: [Mililani_Rosare_Resume.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11514644/Mililani_Rosare_Resume.pdf)

@@ -30,7 +30,7 @@
 - Swimming Reaction Time for Analysis | May 2023 
   - Paper: [Swimming_Reaction_Time_for_Analysis_.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11514627/Swimming_Reaction_Time_for_Analysis_.pdf)
   - Presentation: [SwimmingReactionTimePresentation-RosareThomas.pptx](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11514633/SwimmingReactionTimePresentation-RosareThomas.pptx)
-  - GitHub: https://github.com/emmathomas36/Reaction-Time
+  - GitHub: https://github.com/RosareMililani/Swimming-ReactionTime-Prototype
 - Working Towards Making Games Accessible | May 2023 
   - Paper: [WorkingTowardsMakingGamesAccessible-Rosare.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11514603/WorkingTowardsMakingGamesAccessible-Rosare.pdf)
 - The Use of Video Games in Academia (Literature Review) | February 2023

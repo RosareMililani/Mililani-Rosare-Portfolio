@@ -27,7 +27,7 @@
 <br /> 
 
 ## 📑 Research & Literature Review
-- Swimming Reaction Time for Analysis | February 
+- Swimming Reaction Time for Analysis | May 2023 
   - Paper: [Swimming_Reaction_Time_for_Analysis_.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11514627/Swimming_Reaction_Time_for_Analysis_.pdf)
   - Presentation: [SwimmingReactionTimePresentation-RosareThomas.pptx](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11514633/SwimmingReactionTimePresentation-RosareThomas.pptx)
   - GitHub: https://github.com/emmathomas36/Reaction-Time
@@ -41,6 +41,8 @@
   - Report: [RITHousingSurvey-KhanLeeRosareWhite.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11012303/RITHousingSurvey-KhanLeeRosareWhite.pdf)
 - RIT On-Campus Navigation | September 2022
   - Report: [RITNavigation-KhanLeeRosareWhite.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11012292/RITNavigation-KhanLeeRosareWhite.pdf)
+- Small Commerical Agency Work | August 2022
+  - Repo: https://github.com/RosareMililani/SmallCommerical-AgencyWork 
 
 
 ## 📋 Prototype / User Testing

@@ -22,7 +22,7 @@
 - I like sketching and drawing characters in my free time. 
 - My favorite Disney characters are Chip & Dale.
 - I enjoy playing nonogram games. 
-- I modeled for [RIT's Artifical Intelligence](https://www.rit.edu/study/artificial-intelligence-ms) promotional material. 
+- I modeled for [RIT's Artifical Intelligence](https://www.rit.edu/computing/news/rit-develops-interdisciplinary-masters-degree-artificial-intelligence) promotional material. 
 
 <br /> 
 

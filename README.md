@@ -101,6 +101,8 @@ About: ArtTag, is a drawing experience that allows you to post your drawings on 
 <br /> 
 
 ## 🎨 Design Projects
+### 🗺️ LingoTalk (Design & User Testing)
+- Link to Github: https://github.com/RosareMililani/LingoTalk
 ### 🌼 Logo Design
 - Blog: https://mililani-rosare-projects.blogspot.com/2021/11/logo-design.html
 - Click to Download (PDF): [Mililani-Rosare-Logo.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/7536455/Mililani-Rosare-Logo.pdf)

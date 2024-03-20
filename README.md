@@ -27,6 +27,8 @@
 <br /> 
 
 ## 📑 Research & Literature Review
+- Capstone Project: Learning about and Designing Physical Assistive Technology for Upper-body Motor Impairment Individuals | Jan 2024 - Present
+  - Proposal: [Rosare_Mililani_CapstoneProposal.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/14661903/Rosare_Mililani_CapstoneProposal.pdf)
 - Swimming Reaction Time for Analysis | May 2023 
   - Paper: [Swimming_Reaction_Time_for_Analysis_.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11514627/Swimming_Reaction_Time_for_Analysis_.pdf)
   - Presentation: [SwimmingReactionTimePresentation-RosareThomas.pptx](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11514633/SwimmingReactionTimePresentation-RosareThomas.pptx)
@@ -59,6 +61,10 @@ About: ArtTag, is a drawing experience that allows you to post your drawings on 
 - Facebook: https://www.facebook.com/ArtTag-RIT-101273502460458
 - Website: https://designed.cad.rit.edu/nmcapstone/project/arttag
 
+### 🔧 Internet of Things (IoT) Project 
+- Spin the Wheel | December 2023
+  -   Link to Instructables: https://people.rit.edu/kmc7382/Sites/project/index.html
+
 ### 🚨 Arduino
 - In Times of Covid | May 2021
   - Blog: https://mililani-physicalcomp.blogspot.com/2021/05/p3-in-times-of-covid.html
@@ -81,18 +87,9 @@ About: ArtTag, is a drawing experience that allows you to post your drawings on 
   - Link to Project: https://rcv-6.herokuapp.com/
   - GitHub Repo: https://github.com/dg1229/RCV-Team-6
 
-- K-pop Artists Info | October 2021
-  - Link to Project: https://people.rit.edu/mr7721/ISTE252/P2-Web_App/index.html 
-(Please view on a mobile phone or in a mobile view in the web browser for best experience)
-  - Blog: https://mililani-rosare-projects.blogspot.com/2021/11/k-pop-info-mobile-development.html
-
 - Web Audio Visualizer | March 2020
   - Link to Project: https://people.rit.edu/mr7721/330/project2/
   - GitHub Repo: https://github.com/RosareMililani/Web-Audio-Visualizer
-
-- Amiibo Project | November 2019
-  - Link to Project: https://people.rit.edu/mr7721/235/project2/amiibo-xhr.html
-  - GitHub Repo: https://github.com/RosareMililani/Amiibo-Finder
 
 ### 📊 Data Visualization
 - California Fires: https://observablehq.com/d/de177e5b92c6a7fe
@@ -119,5 +116,4 @@ About: ArtTag, is a drawing experience that allows you to post your drawings on 
 <br /> 
 
 ## 📄 Resume
-- Resume Link: https://people.rit.edu/mr7721/Mililani_Rosare_Resume.pdf
-- Click to Download: [Mililani_Rosare_Resume.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/11514644/Mililani_Rosare_Resume.pdf)
+- Click to Download: [Mililani_Rosare_Resume.pdf](https://github.com/RosareMililani/Mililani-Rosare-Portfolio/files/14661805/Mililani_Rosare_Resume.pdf)
